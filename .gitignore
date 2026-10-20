@@ -1,0 +1,11 @@
+# Foundry build artefacts
+out/
+cache/
+broadcast/
+
+# Local scratch space for the contributor; deleted before verification
+test/scratch/
+
+# Never commit secrets
+.env
+.env.*
